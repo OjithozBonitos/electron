@@ -15,3 +15,4 @@ For context on Electron's security notification process, please see the [Notific
 ## Learning More About Security
 
 To learn more about securing an Electron application, please see the [security tutorial](docs/tutorial/security.md).
+mvn install
